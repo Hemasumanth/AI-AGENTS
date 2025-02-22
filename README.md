@@ -28,6 +28,7 @@ The `AI_agent_workflow.py` implements an intelligent pipeline that handles:
 2. Problem type detection 🔍 
 3. Model selection 🤖
 4. Performance metrics storage 💾
+5. Model Iteration and Validation 🔄: The agent's workflow operates in a structured computation format where it processes outputs from previous iterations, evaluates performance based on predefined criteria, and decides whether to rerun the workflow with modified configurations or alternative approaches. This computation format emphasizes the agent's decision-making logic
 
 
 ### Key Functionality
