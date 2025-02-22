@@ -13,7 +13,7 @@ Two specialized modules enable ML capabilities:
 - `AI_agent_ml_unsupervised.py`: Provides clustering and anomaly detection features
 
 **Workflow Automation**  
-The `AI_agent_workflow.py` module offers a DAG-based workflow engine with automatic task sequencing and dependency resolution. This system can supports both sequential and parallel execution modes.
+The `AI_agent_workflow.py` module offers a workflow with automatic task sequencing and dependency resolution. This system can supports both sequential and parallel execution modes.
 
 **Performance Monitoring**  
 Real-time metrics collection and analysis through:
