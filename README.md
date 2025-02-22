@@ -35,7 +35,7 @@ The `AI_agent_workflow.py` implements an intelligent pipeline that handles:
 The system analyzes dataset characteristics to determine:
 - Regression 📈 (Continuous values)
 - Classification 🏷️ (Categorical labels)
-- Clustering for unsupervised ML  
+- Clustering  (Unsupervised ML)
 
 Note : Example outpus are given in the repo 
 1. temp.csv : To store the cleaned data for ml modle
