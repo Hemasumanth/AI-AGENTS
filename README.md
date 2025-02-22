@@ -5,7 +5,7 @@ The AI Agents Framework is a comprehensive Python-based toolkit for developing a
 ## Features
 
 **Core Agent System**  
-The `AI_Agent.py` module contains fundamental classes for agent instantiation, message passing, and decision-making processes. This core system supports both reactive and deliberative agent architectures through configurable behavior trees[1].
+The `AI_Agent.py` module contains fundamental classes for agent instantiation, message passing, and decision-making processes. This core system supports reactive agent architectures.
 
 **Machine Learning Integration**  
 Two specialized modules enable ML capabilities:
